@@ -1,4 +1,4 @@
-package AgencyPattern;
+package AgencyPattern.StaticProxy;
 
 /**
  * 代理类，帮助完成找书这个动作

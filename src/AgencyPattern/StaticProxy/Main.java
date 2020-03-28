@@ -1,4 +1,4 @@
-package AgencyPattern;
+package AgencyPattern.StaticProxy;
 
 public class Main {
     public static void main(String[] args) {

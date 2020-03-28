@@ -1,4 +1,4 @@
-package AgencyPattern;
+package AgencyPattern.StaticProxy;
 
 /**
  * 每次上课都要带一本书过去，对于同一门课，不需要每节课都去找书
