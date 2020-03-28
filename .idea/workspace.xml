@@ -9,6 +9,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="EffectiveJava" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -35,7 +38,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.FactoryTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="FactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FactoryPattern.FactoryTest" />
       <module name="EffectiveJava" />
@@ -49,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Movie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EqualsOvd.Movie" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AgencyPattern.Main" />
       <module name="EffectiveJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EqualsOvd.*" />
+          <option name="PATTERN" value="AgencyPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnableTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Singleton.SingletonFour.RunnableTest2" />
+    <configuration name="Movie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EqualsOvd.Movie" />
       <module name="EffectiveJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Singleton.SingletonFour.*" />
+          <option name="PATTERN" value="EqualsOvd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.FactoryTest" />
         <item itemvalue="Application.Movie" />
         <item itemvalue="Application.SingletonSeven" />
         <item itemvalue="Application.RunnableTest3" />
-        <item itemvalue="Application.RunnableTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -123,45 +126,46 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="620" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1584960706015">
-      <screen x="0" y="23" width="1440" height="804" />
+    <state x="620" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1585394303358">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="620" y="166" key="#com.intellij.ide.util.MemberChooser/0.23.1440.804@0.23.1440.804" timestamp="1584960706015" />
+    <state x="620" y="166" key="#com.intellij.ide.util.MemberChooser/0.23.1440.806@0.23.1440.806" timestamp="1585394303358" />
     <state x="620" y="167" key="#com.intellij.ide.util.MemberChooser/0.23.1440.808@0.23.1440.808" timestamp="1584520971385" />
     <state x="506" y="337" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584451275218">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
     <state x="506" y="337" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.804@0.23.1440.804" timestamp="1584451275218" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1584522383751">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1585394794014">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584446125049" />
     <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1584450717918" />
-    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1584453845176" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1585394794014" />
     <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1584522383751" />
     <state width="1358" height="191" key="GridCell.Tab.0.bottom/1440.23.1024.681/0.23.1440.804@0.23.1440.804" timestamp="1584437815819" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1584522383750">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1585394794014">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584446125048" />
     <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1584450717917" />
-    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1584453845176" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1585394794014" />
     <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1584522383750" />
     <state width="1358" height="191" key="GridCell.Tab.0.center/1440.23.1024.681/0.23.1440.804@0.23.1440.804" timestamp="1584437815818" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1584522383750">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1585394794013">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584446125047" />
     <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1584450717917" />
-    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1584453845175" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1585394794013" />
     <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1584522383750" />
     <state width="1358" height="191" key="GridCell.Tab.0.left/1440.23.1024.681/0.23.1440.804@0.23.1440.804" timestamp="1584437815818" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1584522383751">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1585394794014">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584446125048" />
     <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1584450717918" />
-    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1584453845176" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1585394794014" />
     <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1584522383751" />
     <state width="1358" height="191" key="GridCell.Tab.0.right/1440.23.1024.681/0.23.1440.804@0.23.1440.804" timestamp="1584437815819" />
     <state width="1358" height="238" key="GridCell.Tab.1.bottom" timestamp="1584353460544">
